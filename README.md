@@ -4,8 +4,8 @@ Client Trading Risk & Performance Analysis
 This repository contains a technical assessment of client trading behavior, focusing on position tracking, P/L attribution, and behavioral risk metrics (Toxicity and Holding Times).
 
 🚀 Dashboard
-https://deepnote.com/app/explorations-e439/AdvancedMarkets-ca4e7556-7ab0-4f97-a005-0c4324247595?utm_source=app-settings&utm_medium=product-shared-content&utm_campaign=data-app&utm_content=ca4e7556-7ab0-4f97-a005-0c4324247595
-View the Live Analysis & Visualizations on DeepNote Note: This interactive environment contains the visualizations.
+[View the Live Analysis & Visualizations on DeepNote Note](https://deepnote.com/app/explorations-e439/AdvancedMarkets-ca4e7556-7ab0-4f97-a005-0c4324247595?utm_source=app-settings&utm_medium=product-shared-content&utm_campaign=data-app&utm_content=ca4e7556-7ab0-4f97-a005-0c4324247595)
+: This interactive environment contains the visualizations.
 
 🛠️ Project Components
 1. Python Analysis (Analysis.ipynb)
