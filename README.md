@@ -8,7 +8,7 @@ This repository contains a technical assessment of client trading behavior, focu
 : This interactive environment contains the visualizations.
 
 🛠️ Project Components
-1. Python Analysis (Analysis.ipynb)
+1. Python Analysis (AM_Analysis.ipynb)
 
 The core code of the project. It handles the "heavy lifting" of data engineering, including:
 
@@ -20,7 +20,7 @@ The core code of the project. It handles the "heavy lifting" of data engineering
 
     Toxicity Detection: Identifying "Quick Turns" (flips within < 60 seconds) to flag potential scalping or high-frequency behavior.
 
-2. Final Report (Trading_Analysis_Report.xlsx)
+2. Final Report (AugSept_Analysis_Complete.xlsx)
 
 A multi-tabbed Excel workbook with the results (warning - not battle tested):
 
