@@ -40,7 +40,7 @@ To run the notebook locally:
 
     Ensure you have the following libraries: pandas, openpyxl, matplotlib.
 
-    Run jupyter notebook Analysis.ipynb.
+    Run jupyter notebook AM_Analysis.ipynb.
 
 Why I Chose This Structure:
 
